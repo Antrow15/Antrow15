@@ -13,7 +13,7 @@ I build production web apps, learning platforms, and AI agent systems — from S
 
 ## About
 
-I'm pursuing an **M.Sc. Computer Science** at **SRM Institute of Science and Technology** (CGPA **8.90**) and recently completed an internship at **Imperium Software Technologies**, where I built an AI Agent Builder platform with Flowise, Ollama, and RAG pipelines on self-hosted infrastructure.
+I hold an **M.Sc. Computer Science** from **SRM Institute of Science and Technology** (CGPA **8.90**) and recently completed an internship at **Imperium Software Technologies**, where I built an AI Agent Builder platform with Flowise, Ollama, and RAG pipelines on self-hosted infrastructure.
 
 Previously I worked as an **Associate Analyst at Deloitte USI**, supporting enterprise workflows (Java, Spring Boot, Angular, M365, ServiceNow). I also shipped **JURIFY**, a full-stack legal aid platform, as part of **Infosys Springboard** (completed Jan 2026).
 
@@ -72,7 +72,7 @@ Previously I worked as an **Associate Analyst at Deloitte USI**, supporting ente
 
 ## Education
 
-- **M.Sc. Computer Science** — SRM Institute of Science and Technology, KTR · Jun 2024 – Jun 2026 · CGPA **8.90**
+- **M.Sc. Computer Science** — SRM Institute of Science and Technology, KTR · Jun 2024 – Jun 2026 · CGPA **8.90** · **Completed**
 - **B.Sc. Computer Science** — Loyola College, Chennai · Jun 2020 – May 2023 · CGPA **8.11**
 
 ---
