@@ -1,9 +1,9 @@
 # Hi, I'm Antrow Jefin 👋
 
-**Full-Stack Developer · Game Developer · AR/VR Enthusiast**  
+**Full-Stack Developer · AI Agent Platforms · Game Developer**  
 📍 Chennai, Tamil Nadu, India
 
-I build production web apps, learning platforms, and interactive experiences — from Spring Boot / Angular enterprise systems to Unity games on the Play Store.
+I build production web apps, learning platforms, and AI agent systems — from Spring Boot / Angular enterprise stacks to self-hosted LLM + RAG workflows.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-antrow--jefin.vercel.app-0A66C2?style=flat&logo=vercel)](https://antrow-jefin.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-antrow--jefin-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/antrow-jefin)
@@ -13,13 +13,11 @@ I build production web apps, learning platforms, and interactive experiences —
 
 ## About
 
-I'm currently pursuing an **M.Sc. Computer Science** at **SRM Institute of Science and Technology** (CGPA **9.14**) and leading a full-stack team on **JURIFY** through **Infosys Springboard**.
+I'm pursuing an **M.Sc. Computer Science** at **SRM Institute of Science and Technology** (CGPA **8.90**) and recently completed an internship at **Imperium Software Technologies**, where I built an AI Agent Builder platform with Flowise, Ollama, and RAG pipelines on self-hosted infrastructure.
 
-Previously I worked as an **Associate Analyst at Deloitte USI**, shipping and supporting enterprise workflows (Java, Spring Boot, Angular, M365, ServiceNow). Before that I designed and shipped **3 Google Play games** at Hoopoe Infoedge (Unity / C#).
+Previously I worked as an **Associate Analyst at Deloitte USI**, supporting enterprise workflows (Java, Spring Boot, Angular, M365, ServiceNow). I also shipped **JURIFY**, a full-stack legal aid platform, as part of **Infosys Springboard** (completed Jan 2026).
 
-I also deliver freelance and client sites (e.g. [KR Scrap Exports](https://www.krscrapexports.com/), college web properties) and contribute to learning-platform products with Angular + Spring Boot.
-
-**Quick facts:** 2+ years experience · 3 published games · 12+ projects · International Taekwondo medalist · Gaming eSports ambassador
+**Quick facts:** Deloitte + Imperium experience · Infosys Springboard project complete · LMS & legal-tech builds · Published mobile games
 
 ---
 
@@ -27,71 +25,55 @@ I also deliver freelance and client sites (e.g. [KR Scrap Exports](https://www.k
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| Full Stack Intern · **Project Lead** | Infosys Springboard | Dec 2025 – Present |
-| Associate Analyst | Deloitte USI (Hyderabad) | Aug 2023 – Aug 2024 |
-| Game Designer Intern | Hoopoe Infoedge (Chennai) | Jan 2023 – Aug 2023 |
-| Frontend Developer Intern | Ardens Business Solution | Dec 2022 – Jan 2023 |
-| Java Full Stack Virtual Intern | AICTE – EduSkills | Jun 2025 |
-| Android Developer Virtual Intern | AICTE – EduSkills (Google for Developers) | 2025 |
+| Intern Software Engineer | **Imperium Software Technologies** (Chennai) | Feb 2026 – Apr 2026 |
+| Associate Analyst (Full-time) | **Deloitte USI** (Hyderabad) | Aug 2023 – Aug 2024 |
 
-**Highlights**
-- Lead a 4-member team on **JURIFY** (React + Spring Boot, Google Calendar + Jitsi Meet)
-- Deloitte: full-stack training + M365 migration support, Workday monitoring, ServiceNow tickets
-- Designed mechanics/UI for three published mobile games; Play Store deployment experience
+### Imperium Software Technologies — Intern Software Engineer
+- Built an **AI Agent Builder** platform using **Flowise** on a self-hosted server for custom chat and voice agents (STT/TTS)
+- Integrated local LLM inference (**Ollama + LLaMA**) with a **RAG** pipeline (vector embeddings + semantic search) across 10+ agent workflows
+- Built a webhook layer connecting agent workflows to 5+ external services for event-driven automation
+- Configured voice-capable agents with speech-to-text and text-to-speech on local infrastructure
+
+### Deloitte USI — Associate Analyst
+- Completed 200+ hours of enterprise training in Java, Spring Boot, and Angular (80%+ on assessments)
+- Resolved 50+ M365 post-migration tickets within SLA; templates cut repeat incidents by ~30%
+- Monitored Workday performance and logged 50+ incidents in ServiceNow (97% SLA compliance)
 
 ---
 
-## Featured work
+## Featured projects
 
-### Full-stack & product
-| Project | Stack | Notes |
-|---------|-------|-------|
-| **JURIFY** — Legal Aid Platform | React, Spring Boot, Tailwind, Jitsi, Google Calendar | Multi-role legal aid, booking, real-time consults |
-| **Learning Portal / LMS** | Spring Boot, Angular, MySQL, JWT | Courses, enrollments, RBAC APIs |
-| [**Flynkup Website**](https://flynkup-website.vercel.app) | Next.js, TypeScript | Marketing site (static export) |
-| [**KR Scrap Exports**](https://www.krscrapexports.com/) | HTML, CSS, JS, Bootstrap | Live business site · hosting & maintenance |
-| [**Smart Cycle**](https://smart-cycle.vercel.app) | PHP, MySQL, Bootstrap | Bike rental + virtual wallet |
-| [**Pastebin**](https://github.com/Antrow15/pastebin) | TypeScript | Paste sharing app |
-
-### AI / AR / Games
-| Project | Stack | Notes |
-|---------|-------|-------|
-| Fake News Detector | React, Python, NLP, OCR, Gemini | Multilingual text/image verification |
-| AR Blueprint → 3D | Unity, Vuforia, Maya | Architectural visualization from 2D plans |
-| AR Machine Placement | Unity, AR Foundation | Industrial floor-aware placement |
-| [Space Twister](https://play.google.com/store/apps/details?id=com.HoopoeInfoedge.SpaceTwister) · [Galactic Gobbler](https://play.google.com/store/apps/details?id=com.HoopoeInfoedge.GalacticGobbler) · [Mars Runner](https://play.google.com/store/apps/details?id=com.HoopoeInfoedge.MarsRunner) | Unity / Android | Published on Google Play |
+| Project | Stack | Period | Highlights |
+|---------|-------|--------|------------|
+| **[JURIFY](https://github.com/Antrow15)** — Legal Aid Platform *(Infosys Springboard)* | React.js, Spring Boot, Tailwind | Dec 2025 – **Jan 2026** ✅ | 4 roles · case–lawyer matching · Google Calendar / Meet + Jitsi · 10+ REST APIs |
+| **Fake News Detector** | React.js, Python, Gemini 2.5 Flash | Nov 2025 – Dec 2025 | Multilingual text/image verification · OCR · Whisper · LibreTranslate |
+| **Learning Portal (LMS)** | Spring Boot, Angular, PostgreSQL | Apr 2025 – Nov 2025 | JWT RBAC across 7 tiers · 15+ secured APIs · lazy-loaded Angular UI |
+| [**Flynkup Website**](https://flynkup-website.vercel.app) | Next.js, TypeScript | — | Marketing site (static export) |
+| [**Smart Cycle**](https://smart-cycle.vercel.app) | PHP, MySQL, Bootstrap | — | Bike rental + virtual wallet |
+| [**Pastebin**](https://github.com/Antrow15/pastebin) | TypeScript | — | Paste sharing app |
 
 ---
 
 ## Tech stack
 
-**Languages:** Java · JavaScript/TypeScript · C/C++ · C# · Python · PHP · SQL · HTML/CSS  
+**Languages:** Java · Python · JavaScript · TypeScript · SQL · HTML/CSS  
 
-**Backend & APIs:** Spring Boot · REST · JWT · MySQL  
+**Frameworks & APIs:** Spring Boot · Angular · Bootstrap · REST APIs  
 
-**Frontend:** Angular · React · Next.js · Tailwind CSS · Bootstrap  
+**Databases:** PostgreSQL · MySQL  
 
-**Game & 3D:** Unity · Unreal Engine · Autodesk Maya · 3ds Max  
+**AI & LLM:** Flowise · Ollama · RAG pipelines · Cursor · Claude Code  
 
-**AR/VR:** Vuforia · AR Foundation  
+**Tools:** Git · GitHub · VS Code · Postman · ServiceNow  
 
-**Tools & deploy:** Git · Postman · Vercel · Render · Cloudflare · Google Play Console  
+**Deploy & cloud:** Vercel · Render · Cloudflare · Self-hosted servers  
 
 ---
 
 ## Education
 
-- **M.Sc. Computer Science** — SRM Institute of Science and Technology, KTR · 2024 – Present · CGPA **9.14**
-- **B.Sc. Computer Science** — Loyola College, Chennai · 2020 – 2023 · CGPA **8.11**
-- **ADIDG** (Advanced Program in Interactive Design and Games) — MAAC Anna Nagar · 2020 – 2023
-
----
-
-## Beyond code
-
-- International Taekwondo medalist  
-- College Gaming eSports Ambassador  
-- Interests: web platforms, game systems design, AR/VR, practical AI tooling  
+- **M.Sc. Computer Science** — SRM Institute of Science and Technology, KTR · Jun 2024 – Jun 2026 · CGPA **8.90**
+- **B.Sc. Computer Science** — Loyola College, Chennai · Jun 2020 – May 2023 · CGPA **8.11**
 
 ---
 
@@ -100,10 +82,9 @@ I also deliver freelance and client sites (e.g. [KR Scrap Exports](https://www.k
 - 🌐 Portfolio: [antrow-jefin.vercel.app](https://antrow-jefin.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/antrow-jefin](https://linkedin.com/in/antrow-jefin)  
 - ✉️ Email: [antrowjefin15@gmail.com](mailto:antrowjefin15@gmail.com)  
+- 📱 +91 9150851137  
 - 📍 Chennai, India  
 
 ---
 
-*"Ship useful software — and the occasional game."*
-
-⭐ Thanks for visiting — feel free to explore the repos or reach out for collaboration.
+⭐ Thanks for visiting — open to full-time roles and collaboration.
